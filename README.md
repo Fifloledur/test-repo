@@ -1,7 +1,7 @@
 # TEST
 ## Trying
 
-*Hello **__World!__**
+*Hello __World!__*
 I can create a list
 * like that
 * or that
