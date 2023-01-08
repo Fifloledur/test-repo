@@ -7,4 +7,4 @@ I can create a list
 * or that
 * or that
 
-I can create any hypertext like [google](www.google.com)
+I can create any hypertext like [google](http://www.google.com)
